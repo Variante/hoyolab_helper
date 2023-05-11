@@ -1,0 +1,2 @@
+# HoyolabTool
+crontab -e;
